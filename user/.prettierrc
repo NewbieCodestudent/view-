@@ -1,0 +1,8 @@
+{
+    "semi" : false,
+    "bracketSpancing" : true,
+    "singleQuote" : true,
+    "useTabs" : false,
+    "trailingComma" : "none",
+    "pringWidth" :80
+}
